@@ -57,3 +57,14 @@ int main()
 		std::wcin >> input;
 	}
 }
+/*
+#A We include <map>
+#B This function receives 2 wstrings and return 'true' if they are identical when comparing them without cases sensitivity, and 'false' if they aren't
+#C This function that receives a vector of map of 2 wstrings, a country and a capital and add them to the vector
+#D This is our vector where we hold the pairs of countries and their capitals
+#E Our input and output
+#F Accepting input from the user ('q' to quit)
+#G As long as the user doesn't want to quit, we continue
+#H Iterate through all elements in std::map
+#I In case we found a match
+*/
