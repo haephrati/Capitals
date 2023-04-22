@@ -19,7 +19,7 @@ int main()
 	std::map<std::wstring, std::wstring> Capitals; // #D
 	std::wstring input{ L"" }, output{ L"" }; // #E
 
-		Capitals.insert(std::make_pair(L"France", L"Paris"));
+	Capitals.insert(std::make_pair(L"France", L"Paris"));
 	Capitals.insert(std::make_pair(L"USA", L"Washington DC"));
 	Capitals.insert(std::make_pair(L"Israel", L"Jerusalem"));
 	Capitals.insert(std::make_pair(L"Jordan", L"Amman"));
