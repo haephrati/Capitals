@@ -1,6 +1,7 @@
 # Capitals
 
 This is an excercise from Chapter 10 of  [Learning C++](https://www.manning.com/books/learning-c-plus-plus) by Michael Haephrati and Ruth Haephrati, published by [Manning Publications](https://www.manning.com/manning).
+
 ![Learning C++ by Michael Haephrati and Ruth Haephrati](https://i.ibb.co/mvTcpqK/Haephrati-MEAP-HI.jpg)
 
 ## About
@@ -10,6 +11,10 @@ Not only will it show you the capital of a given country, but if it doesn't know
 ## The code
 
 In order to insert data to a map, we use the insert member function std::make_pair(), which constructs a pair object with its first element set to the country and its second element set to the capital.
+
+## My blog
+
+The [following blog](https://haephrati1.wordpress.com) will be dedicated to the book.
 
 ## Details
 
