@@ -14,7 +14,7 @@ In order to insert data to a map, we use the insert member function std::make_pa
 
 ## My blog
 
-The [following blog](https://haephrati1.wordpress.com) will be dedicated to the book.
+The [following blog](https://learningcplusplus.blog) will be dedicated to the book.
 
 ## Details
 
