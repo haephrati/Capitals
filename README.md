@@ -25,5 +25,9 @@ In this sample, we ask the user to enter the name of a country, and the program 
 
 The program then adds the new entry and learns, so it can display it next time.
 
+## Unit tests
+
+`Tests/CapitalsTests` checks case-insensitive country compare and `add_capital`. Build Release|x64.
+
 
 ![Sample output](https://i.ibb.co/WKCFKJL/CH10-Capitals-output.jpg)
